@@ -1,5 +1,5 @@
 {
-    "name": "robertfausk/behat-panther-extension",
+    "name": "coreshop/behat-panther-extension",
     "type": "behat-extension",
     "description": "Symfony Panther extension for Behat",
     "keywords": [
@@ -16,13 +16,19 @@
         {
             "name": "Robert Freigang",
             "email": "robertfreigang@gmx.de"
+        },
+        {
+          "name": "Dominik Pfaffenbauer",
+          "email": "dominik@pfaffenbauer.at",
+          "homepage": "https://www.pfaffenbauer.at/",
+          "role": "Developer"
         }
     ],
     "require": {
         "php": ">=7.1",
         "behat/behat": "^3.0.5",
         "behat/mink-extension": "^2.0",
-        "robertfausk/mink-panther-driver": "^1.0",
+        "coreshop/mink-panther-driver": "^1.0",
         "symfony/config": "^3.4|^4.0"
     },
     "require-dev": {
