@@ -1,7 +1,8 @@
 <?php
+
 declare(strict_types=1);
 
-namespace Robertfausk\Behat\PantherExtension\ServiceContainer\Driver;
+namespace CoreShop\Behat\PantherExtension\ServiceContainer\Driver;
 
 use Behat\MinkExtension\ServiceContainer\Driver\DriverFactory;
 use Symfony\Component\Config\Definition\Builder\ArrayNodeDefinition;

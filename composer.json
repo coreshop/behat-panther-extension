@@ -35,7 +35,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Robertfausk\\Behat\\PantherExtension": "src/"
+            "CoreShop\\Behat\\PantherExtension": "src/"
         }
     },
     "extra": {
