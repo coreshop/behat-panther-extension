@@ -29,7 +29,7 @@
         "behat/behat": "^3.0.5",
         "behat/mink-extension": "^2.0",
         "coreshop/mink-panther-driver": "^1.0",
-        "symfony/config": "^3.4|^4.0"
+        "symfony/config": "^3.4|^4.0|^5.0"
     },
     "require-dev": {
     },
